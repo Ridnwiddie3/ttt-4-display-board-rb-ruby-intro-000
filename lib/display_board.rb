@@ -7,5 +7,5 @@ def display_board(board)
   puts "-----------"
   puts "#{board3},|,board4,|,#{board5}"
   puts "-----------"
-  puts "#{board6},|,#{board7},|,board7"
+  puts "#{board6},|,#{board7},|,board8"
   end
