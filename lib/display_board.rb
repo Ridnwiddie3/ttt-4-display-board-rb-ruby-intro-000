@@ -1,19 +1,13 @@
 board = ["   ","   ","   ","   ","   ","   ","   ","   ","   "]
 
 def display_board(board)
-  puts "   |   |   "
+  puts "#{board0}","|","#{board1}","|","#{baord2}"
   puts "-----------"
-  puts "   |   |   "
+  puts "#{board3}","|","board4","|","#{board5}"
   puts "-----------"
-  puts "   |   |   "
+  puts "#{board6}","|","#{board7}","|","board7"
   end
 
-board2 = ["   ","   ","   ","   ","X","   ","   ","   ","   ",]
 
-def display_board(board2)
-  puts "   |   |   "
-  puts "-----------"
-  puts "   |   |   "
-  puts "-----------"
-  puts "   |   |   "
-  end
+
+
