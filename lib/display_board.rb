@@ -9,7 +9,7 @@ def display_board(board)
 
 
 
-def display_board(board)
+def display_board(board2)
   puts "#{board0}","|","#{board1}","|","#{baord2}"
   puts "-----------"
   puts "#{board3}","|","board4","|","#{board5}"
